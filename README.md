@@ -1,3 +1,5 @@
 # H23_V13_inspirations_SING
 
-Update 1: BIAN
+Ce dossier appartient à Khaly Tia Sing où qu'on retrouve des projets du cours : 
+
+BIAN contient: 
