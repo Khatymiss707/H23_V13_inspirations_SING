@@ -7,7 +7,7 @@ something
 <h2>Type de l'exposition</h2> 
 something 
 <h2>Date de la visite</h2>
-something
+Vendredi, le 3 Février 2023
 <h2>Titre de l'oeuvre</h2>
 Bilateral Time Slicer
 <h2>Nom de l'artiste</h2>
