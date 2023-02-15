@@ -1,4 +1,4 @@
 # LA VISITE ET L'EXPÉRIENCE DE LA 6E BIENNALE INTERNATIONALE D'ART NUMÉRIQUE (BIAN)
 
-<h2>Nom de l'artiste</h2><br/>
+<h2>Nom de l'artiste</h2>
 Rafael Lozano-Hemmer
