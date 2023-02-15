@@ -1,11 +1,11 @@
 # LA VISITE ET L'EXPÉRIENCE DE LA 6E BIENNALE INTERNATIONALE D'ART NUMÉRIQUE (BIAN)
 
 <h2>Nom de l'exposition</h2> 
-something
+Elektra à la 6e biennale internationale d'art numérique
 <h2>Lieu de l'exposition</h2>
-something
+2020 rue William, Montréal: Arsenal contemporary art contemporain
 <h2>Type de l'exposition</h2> 
-something 
+Temporaire, Intérieure et Itinérante 
 <h2>Date de la visite</h2>
 Vendredi, le 3 Février 2023
 <h2>Titre de l'oeuvre</h2>
@@ -15,6 +15,7 @@ Rafael Lozano-Hemmer
 <h2>Année de réalisation</h2>
 2016
 <h2>Description de l'oeuvre</h2>
+En gros, 
 <h2>Type d'installation</h2>
 <h2>Mise en espace</h2>
 <h2>Composantes et techniques</h2>
