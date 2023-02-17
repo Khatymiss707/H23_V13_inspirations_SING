@@ -36,13 +36,20 @@ Pour suivre la thématique de la mutation, le Bilateral Time Slicer s'inspire é
 ![](medias/bilateral_time_slicer_cartel.jpg)
 
 <h2>Mise en espace</h2>
-Comme on peut l'observer, l'espace donné pour cette oeuvre en particulier est plutôt grande, n'ayant seulement une autre oeuvre à sa gauche. Pour créer un immersion, on peut apercevoir que les employés de l'exposition ont mis un faux mûr noir à la place de l'installer directement sur le mûr de leur bâtiment, aidant à l'atmosphère sombre et à la vision de l'oeuvre puisque c'est un écran qui projete un vidéo numérique. Ensuite, il y a plusieurs lumières d'une teinte orangée qui vient éclairer l'oeuvre, mais aussi le plancher qui aide à démontrer et bien allumer le ruban adhésif qui montre l'emplacement nécessaire pour intéragir. Les lumières aident aussi à séparer l'oeuvre du reste de l'exposition. Un élément qui peut être confusant est les deux cartels qui entoure le Bilateral Time Slicer, les deux étant autant proche  
+Comme on peut l'observer, l'espace donné pour cette oeuvre en particulier est plutôt grande, n'ayant seulement une autre oeuvre à sa gauche et des oeuvres en avant qui se sépare assez bien. Pour créer un immersion, on peut apercevoir que les employés de l'exposition ont mis un faux mûr noir à la place de l'installer directement sur le mûr de leur bâtiment, aidant à l'atmosphère sombre et à la vision de l'oeuvre puisque c'est un écran qui projete un vidéo numérique. Ensuite, il y a plusieurs lumières d'une teinte orangée qui vient éclairer l'oeuvre, mais aussi le plancher qui aide à démontrer et bien allumer le ruban adhésif qui montre l'emplacement nécessaire pour intéragir. Les lumières aident aussi à séparer l'oeuvre du reste de l'exposition. Un élément qui peut être confusant est les deux cartels qui entoure le Bilateral Time Slicer, les deux étant autant proches de l'oeuvre alors c'est facile de ne pas savoir quel cartel appartient à quelle oeuvre, surtout quand elles ne sont pas illuminées. En plus, il est facile de voir l'extincteur de feu puisqu'il est placé un peu trop proche du cartel. Autre que cela, l'écran est placé au centre de sa partie du mûr pour laisser un bon espace et probablement pour l'esthétisme.  
 
 ![](medias/bilateral_time_slicer_espace.jpg)
 
 <h2>Composantes et techniques</h2>
+Les composantes visibles à l'audience est plutôt d'un nombre simple. Il y a évidemment l'écran qui est nécessaire puisqu'elle permet de projeter les vidéos prisent par la caméra qui se retrouve juste par dessus celui-ci. Pour bien dépeindre le corps complet de la personne qui intéragie avec l'oeuvre, l'écran qui est plutôt petit est placé verticalement, comme un mirroir. La caméra, elle, se retrouve 
+
+![](medias/bian_bilateral_time_slicer_camera.jpg)
 
 <h2>Éléments nécessaires lors mise en exposition</h2>
+ 
+![](medias/bilateral_time_slicer_lumiere_1.jpg)
+
+![](medias/bilateral_time_slicer_lumiere_2.jpg)
 
 <h2>Expérience vécue</h2>
 
