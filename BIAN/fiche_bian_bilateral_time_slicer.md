@@ -4,7 +4,7 @@
 Elektra à la 6e biennale internationale d'art numérique
 <h2>Lieu de l'exposition</h2>
 2020 rue William, Montréal: Arsenal contemporary art contemporain
-![img_entree](medias/bian_bilateral_time_slicer_camera.jpg)
+![](bian_bilateral_time_slicer_camera.jpg)
 <h2>Type de l'exposition</h2> 
 Temporaire, Intérieure et Itinérante 
 <h2>Date de la visite</h2>
