@@ -2,15 +2,18 @@
 
 <h2>Nom de l'exposition</h2> 
 Elektra à la 6e biennale internationale d'art numérique
-<h2>Lieu de l'exposition</h2>
-2020 rue William, Montréal: Arsenal contemporary art contemporain
-
-![ ](medias/moi_entree.jpeg)
 
 <h2>Type de l'exposition</h2> 
 Temporaire, Intérieure et Itinérante 
+
 <h2>Date de la visite</h2>
 Vendredi, le 3 Février 2023
+
+<h2>Lieu de l'exposition</h2>
+2020 rue William, Montréal: Arsenal contemporary art contemporain
+
+![ ](medias/moi_entree.jpg)
+
 <h2>Titre de l'oeuvre</h2>
 Bilateral Time Slicer
 
@@ -18,22 +21,37 @@ Bilateral Time Slicer
 
 <h2>Nom de l'artiste</h2>
 Rafael Lozano-Hemmer
+
 <h2>Année de réalisation</h2>
 2016
+
+<h2>Type d'installation</h2>
+Intéractive
+
+[![](http://img.youtube.com/vi/lMCF7V9i6So/0.jpg)](http://www.youtube.com/watch?v=lMCF7V9i6So). 
+
 <h2>Description de l'oeuvre</h2>
-En gros, 
+Pour suivre la thématique de la mutation, le Bilateral Time Slicer s'inspire énormément des masques anciens, plus spécifiquement le masque à trois visages dans la culture aztèque qui démontre le visage du millieu étant le plus jeune/récent et les visages de côtés étant les portraits plus anciens, tout en lui donnant aussi un aspect d'art moderne et contemporain grâce à la technologie d'aujourd'hui. C'est une oeuvre qui fusionne les générations modernes et anciennes non seulement dans son symbolisme, mais aussi dans sa présentation selon le site de Rafael Lozano-Hemmer.  
 
 ![](medias/bilateral_time_slicer_cartel.jpg)
 
-<h2>Type d'installation</h2>
 <h2>Mise en espace</h2>
+Comme on peut l'observer, l'espace donné pour cette oeuvre en particulier est plutôt grande, n'ayant seulement une autre oeuvre à sa gauche. Pour créer un immersion, on peut apercevoir que les employés de l'exposition ont mis un faux mûr noir à la place de l'installer directement sur le mûr de leur bâtiment, aidant à l'atmosphère sombre et à la vision de l'oeuvre puisque c'est un écran qui projete un vidéo numérique. Ensuite, il y a plusieurs lumières d'une teinte orangée qui vient éclairer l'oeuvre, mais aussi le plancher qui aide à démontrer et bien allumer le ruban adhésif qui montre l'emplacement nécessaire pour intéragir. Les lumières aident aussi à séparer l'oeuvre du reste de l'exposition. Un élément qui peut être confusant est les deux cartels qui entoure le Bilateral Time Slicer, les deux étant autant proche  
+
+![](medias/bilateral_time_slicer_espace.jpg)
+
 <h2>Composantes et techniques</h2>
+
 <h2>Éléments nécessaires lors mise en exposition</h2>
+
 <h2>Expérience vécue</h2>
+
 <h2>Ce qui m'a plu</h2>
-N'ayant pas souvent la chance de pouvoir expériencer des expositions, j'étais déjà heureuse de pouvoir y assister cette fois-ci. Il y a beaucoup d'éléments que j'ai appréciée durant mon temps à l'exposition comme toutes les différents arts numériques qui étaient interactifs. J'aime bien les activités qui nécessitent une certaine participation afin de rejoindre les gens. J'aime aussi la noiceur qu'il y avait dans la salle pour qu'on ayent une bonne vue des écrans, mais ce n'était pas trop noir non plus afin de pouvoir voir le ruban adhésif sur le plancher. En plus, c'était intéressant de voir le multimédia sous plusieurs projets uniques et si différents.  
+N'ayant pas souvent la chance de pouvoir expériencer des expositions, j'étais déjà heureuse de pouvoir y assister cette fois-ci. Il y a beaucoup d'éléments que j'ai appréciée durant mon temps à l'exposition comme toutes les différents arts numériques qui étaient interactifs. J'aime bien les activités qui nécessitent une certaine participation afin de rejoindre les gens. J'aime aussi la noiceur qu'il y avait dans la salle pour qu'on ayent une bonne vue des écrans, mais ce n'était pas trop noir non plus afin de pouvoir voir le ruban adhésif sur le plancher. En plus, c'était intéressant de voir le multimédia sous plusieurs projets uniques et si différents.
+
 <h2>Aspects à changer (selon moi)</h2>
 Selon moi, je trouve qu'il y a une possibilité de changer quelques éléments de l'oeuvre que j'ai choisis et de l'exposition en tant que tel. Pour commencer, la première chose que j'ai réalisé à propos du Bilateral Time Slicer autre que l'oeuvre elle même (puisqu'elle est numérique, elle illumine la pièce plutôt noire) est le bizarre emplacement de l'extincteur de feu. Peut-être que c'est un signe que l'oeuvre en tant que telle ou des oeuvres rapprochées ont l'habitude de se prendre en feu, mais c'est étrange, surtout quand la plupart des oeuvres dans cette pièce étaient des écrans. Malgré le manque de lumière, la couleur rouge flash de l'extincteur peut quand même se faire voir, surtout quand il est placé si près malgré le grand espace libre vers la gauche. Encore pire, il était placé juste en dessous du cartel, ce qui était néanmoins une distraction. Ensuite, celui-ci n'est pas nécessairement un problème, mais plutôt une préférence. Je trouve que l'écran, malgré le moyen de transport simplifié, devrait être plus long sur les côtés pour pouvoir mélanger plus de personnes et images ensemble.  
+
 <h2>Source de référence</h2>
 https://www.lozano-hemmer.com/bilateral_time_slicer.php
 
