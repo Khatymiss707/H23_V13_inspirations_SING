@@ -56,7 +56,7 @@ Il y a évidemment l'écran qui est nécessaire puisqu'elle permet de projeter l
 
 ![](medias/bilateral_time_slicer_lumiere_3.jpg)
 
-![](bilateral_time_slicer_ruban_adhesif.jpg)
+![](medias/bilateral_time_slicer_ruban_adhesif.jpg)
 
 <h2>Expérience vécue</h2>
 En gros, l'expérience vécue par le visiteur de l'exposition lorsque la personne rentre en contact avec l'oeuvre est supposé de se passer sous ces étapes: Apercevoir les écrans et les images des autres personnes qui ont intéragient auparavant, donnant la confirmation que c'est une oeuvre interactive. Apercevoir la ligne/ruban adhésif qui démontre une certaine explication qu'on doit s'installer dessus pour que l'oeuvre marche. S'installer sur le ruban adhésif. Réaliser que la caméra suit notre visage. Sortir de la ligne pour que la caméra ne suit plus. Voir notre portrait en mutation avec les autres sur l'écran. 
