@@ -41,17 +41,29 @@ Comme on peut l'observer, l'espace donné pour cette oeuvre en particulier est p
 ![](medias/bilateral_time_slicer_espace.jpg)
 
 <h2>Composantes et techniques</h2>
-Les composantes visibles à l'audience est plutôt d'un nombre simple. Il y a évidemment l'écran qui est nécessaire puisqu'elle permet de projeter les vidéos prisent par la caméra qui se retrouve juste par dessus celui-ci. Pour bien dépeindre le corps complet de la personne qui intéragie avec l'oeuvre, l'écran qui est plutôt petit est placé verticalement, comme un mirroir. La caméra, elle, se retrouve 
+Les composantes visibles à l'audience est plutôt d'un nombre simple. Dans les composantes qui sont (probablement) fournies par l'artiste et sont équipe, il semble que la caméra, elle qui se retrouve par dessus l'écran nécessite une certaine fonction qu'il décrit en anglais en tant qu'un "digitizer". Non seulement équipé d'une lentille performante, mais aussi accroché avec des fils qui vont se cacher derrière l'écran qui va démontrer l'oeuvre qui est plus la composition de la caméra et le montage que son système fait avec les captures de personnes. Ensuite, il y a aussi une nécessité d'un ram (MAC) pour pouvoir faire marcher son programme accompagné d'un mini recorder, des captures HDMI, un fil thunderbolt, un mini cable HDMI, un support "swivel" pour la caméra, un fil LED et un clavier, tous caché derrière l'écran.  
+
+Parlant de la technique, il est bien expliqué dans le site officiel de l'artiste que la manière que ça fonctionne est grâce à un programe fait par lui même qui prend des photos des gens en faisant du "tracking" de l'axe vertical des visages. 
 
 ![](medias/bian_bilateral_time_slicer_camera.jpg)
 
 <h2>Éléments nécessaires lors mise en exposition</h2>
+Il y a évidemment l'écran qui est nécessaire puisqu'elle permet de projeter les vidéos prisent par la caméra qui se retrouve juste par dessus celui-ci. Pour bien dépeindre le corps complet de la personne qui intéragie avec l'oeuvre, l'écran qui est plutôt petit est placé verticalement, comme un mirroir. Il y a aussi des projecteurs bien placé pour mettre en évidence l'oeuvre, mais autre que pour mettre l'oeuvre dans un place visible, je ne penses pas que la qualité de la lumière est importante. C'est plus une nécessité pour le fonctionnement de l'oeuvre qui a besoin d'une personne placée sur le ruban adhésif.  
  
 ![](medias/bilateral_time_slicer_lumiere_1.jpg)
 
 ![](medias/bilateral_time_slicer_lumiere_2.jpg)
 
 <h2>Expérience vécue</h2>
+En gros, l'expérience vécue par le visiteur de l'exposition lorsque la personne rentre en contact avec l'oeuvre est supposé de se passer sous ces étapes. 
+-Apercevoir les écrans et les images des autres personnes qui ont intéragient auparavant, donnant la confirmation que c'est une oeuvre interactive.
+-Apercevoir la ligne/ruban adhésif qui démontre une certaine explication qu'on doit s'installer dessus pour que l'oeuvre marche.
+-S'installer sur le ruban adhésif
+-Réaliser que la caméra suit notre visage
+-Sortir de la ligne pour que la caméra ne suit plus
+-Voir notre portrait en mutation avec les autres sur l'écran. 
+
+Tout est démontré dans le video mis dans la section (Type d'installation) 
 
 <h2>Ce qui m'a plu</h2>
 N'ayant pas souvent la chance de pouvoir expériencer des expositions, j'étais déjà heureuse de pouvoir y assister cette fois-ci. Il y a beaucoup d'éléments que j'ai appréciée durant mon temps à l'exposition comme toutes les différents arts numériques qui étaient interactifs. J'aime bien les activités qui nécessitent une certaine participation afin de rejoindre les gens. J'aime aussi la noiceur qu'il y avait dans la salle pour qu'on ayent une bonne vue des écrans, mais ce n'était pas trop noir non plus afin de pouvoir voir le ruban adhésif sur le plancher. En plus, c'était intéressant de voir le multimédia sous plusieurs projets uniques et si différents.
