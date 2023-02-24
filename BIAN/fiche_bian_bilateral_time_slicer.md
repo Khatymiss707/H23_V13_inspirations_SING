@@ -3,6 +3,8 @@
 <h2>Nom de l'exposition</h2> 
 Elektra à la 6e biennale internationale d'art numérique
 
+![ ](medias/exposition_elektra_banniere.jpg)
+
 <h2>Type de l'exposition</h2> 
 Temporaire, Intérieure et Itinérante 
 
@@ -40,12 +42,18 @@ Comme on peut l'observer, l'espace donné pour cette oeuvre en particulier est p
 
 ![](medias/bilateral_time_slicer_espace.jpg)
 
+![](medias/bilateral_time_slicer_plan_d_espace.jpg)
+
 <h2>Composantes et techniques</h2>
 Les composantes visibles à l'audience est plutôt d'un nombre simple. Dans les composantes qui sont (probablement) fournies par l'artiste et sont équipe, il semble que la caméra, elle qui se retrouve par dessus l'écran nécessite une certaine fonction qu'il décrit en anglais en tant qu'un "digitizer". Non seulement équipé d'une lentille performante, mais aussi accroché avec des fils qui vont se cacher derrière l'écran qui va démontrer l'oeuvre qui est plus la composition de la caméra et le montage que son système fait avec les captures de personnes. Ensuite, il y a aussi une nécessité d'un ram (MAC) pour pouvoir faire marcher son programme accompagné d'un mini recorder, des captures HDMI, un fil thunderbolt, un mini cable HDMI, un support "swivel" pour la caméra, un fil LED et un clavier, tous caché derrière l'écran.  
 
 Parlant de la technique, il est bien expliqué dans le site officiel de l'artiste que la manière que ça fonctionne est grâce à un programe fait par lui même qui prend des photos des gens en faisant du "tracking" de l'axe vertical des visages. 
 
 ![](medias/bian_bilateral_time_slicer_camera.jpg)
+
+![](medias/bilateral_time_slicer_ordinateur.jpg)
+
+![](medias/bilateral_time_slicer_composition.jpg)
 
 <h2>Éléments nécessaires lors mise en exposition</h2>
 Il y a évidemment l'écran qui est nécessaire puisqu'elle permet de projeter les vidéos prisent par la caméra qui se retrouve juste par dessus celui-ci. Pour bien dépeindre le corps complet de la personne qui intéragie avec l'oeuvre, l'écran qui est plutôt petit est placé verticalement, comme un mirroir. C'est un écran fourni par la facilité/exposition puisque dans son manuel, il n'est pas spécifié quel l'écran que l'oeuvre nécessite, seulement le minimum de performance. Il y a aussi des projecteurs bien placé pour mettre en évidence l'oeuvre, mais autre que pour mettre l'oeuvre dans un place visible, je ne penses pas que la qualité de la lumière est importante. C'est plus une nécessité pour le fonctionnement de l'oeuvre qui a besoin d'une personne placée sur le ruban adhésif. J'imagine aussi que le ruban provient de l'exposition puisqu'il étant le même que celui qui limitait les autres oeuvres.   
