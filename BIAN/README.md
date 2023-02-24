@@ -1,1 +1,1 @@
-
+Ce sous-dossier contient les informations nécessaires à propos de la visite à l'exposition Elektra à la BIAN 2023, plus spécifiquement sur l'oeuvre qui m'a le plus intéressé: Le Bilateral Time Slicer.
