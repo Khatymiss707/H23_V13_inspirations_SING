@@ -51,9 +51,9 @@ Parlant de la technique, il est bien expliqué dans le site officiel de l'artist
 
 ![](medias/bian_bilateral_time_slicer_camera.jpg)
 
-![](medias/bilateral_time_slicer_ordinateur.jpg)
+![](medias/)
 
-![](medias/bilateral_time_slicer_composition.jpg)
+![](medias/)
 
 <h2>Éléments nécessaires lors mise en exposition</h2>
 Il y a évidemment l'écran qui est nécessaire puisqu'elle permet de projeter les vidéos prisent par la caméra qui se retrouve juste par dessus celui-ci. Pour bien dépeindre le corps complet de la personne qui intéragie avec l'oeuvre, l'écran qui est plutôt petit est placé verticalement, comme un mirroir. C'est un écran fourni par la facilité/exposition puisque dans son manuel, il n'est pas spécifié quel l'écran que l'oeuvre nécessite, seulement le minimum de performance. Il y a aussi des projecteurs bien placé pour mettre en évidence l'oeuvre, mais autre que pour mettre l'oeuvre dans un place visible, je ne penses pas que la qualité de la lumière est importante. C'est plus une nécessité pour le fonctionnement de l'oeuvre qui a besoin d'une personne placée sur le ruban adhésif. J'imagine aussi que le ruban provient de l'exposition puisqu'il étant le même que celui qui limitait les autres oeuvres.   
