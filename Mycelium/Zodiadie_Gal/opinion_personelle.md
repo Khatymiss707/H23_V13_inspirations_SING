@@ -10,4 +10,4 @@ Personnellement, ce jeu rentre parfaitement dans mes intérêts puisque je joue 
 - Conception Sonore 
 
 <h2>Composante technologique/Technique non connue</h2> 
-L'outil 
+L'outil qu'elle a utilisé pour faire son projet: GDEVELOP 5 
