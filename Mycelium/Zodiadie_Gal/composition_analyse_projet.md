@@ -7,7 +7,7 @@ Un jeu sur le web qui nécéssite une compréhension du style du jeu "pointer et
 Selon mon expérience et les mots de la réalisatrice, le thème se retrouve dans l'environnement dont le jeu prend place, étant un monde qui semble être apocalyptique et qui a laissé la nature prendre place des infrastructures humaines, les laissant pourrir et détériorer avec le temps. Le plus évident des éléments qui démontre clairement le thème est la pourriture et qui semble prendre place dans ses illustrations en forme de squelette, champignons, mousse, etc. Le jeu vidéo est fondé sur la nature. 
 
 <h2>L'installation en cours</h2> 
-
+Pour le moment, l'installation du jeu se retrouve déjà dans le lieu dont l'installation finale se retrouvera, dont le compartiment qui occupe les escaliers dans le grand studio. La pièce est plutôt sombre avec seulement la lumière blanche de l'écran illuminant l'espace. 
 <h2>L'installation prévue</h2> 
 
 
