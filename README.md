@@ -8,7 +8,8 @@ Les médias de ma visite de l'exposition et le fichier d'analyse sur l'oeuvre "B
 **Mycélium contient:** <br/>
 Les fichiers d'analyse pour les oeuvres faites par les étudiants de 3e année qui se retrouvaient dans le grand studio (et le petit) et ses médias pris par moi.
 
-- 
--
--
--
+- Boucler la boucle 
+- EDRIA
+- Echomarine
+- Luma Sol
+- Zodiadie Gal
