@@ -1,6 +1,6 @@
 # H23_V13_inspirations_SING
 
-Ce dossier appartient à Khaly Tia Sing où qu'on retrouve des projets visités dans le cours Documentation d'une collection multimédia: 
+**Ce dossier appartient à Khaly Tia Sing où qu'on retrouve des projets visités dans le cours Documentation d'une collection multimédia:** 
 
 **BIAN contient:** <br/>
 Le fichier d'analyse sur l'oeuvre "Bilateral Time Slicer" par Rafael Lozano-Hemmer et les médias pris par moi lors de ma visite de l'exposition 
