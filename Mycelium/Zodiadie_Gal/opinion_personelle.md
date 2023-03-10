@@ -7,8 +7,8 @@ Personnellement, ce jeu rentre parfaitement dans mes intérêts puisque je joue 
 <h2>3 cours incontournables à la création d'un projet similaire</h2> 
 
 - Atelier d'illustation numérique
-- Animation 2D
-- Conception Sonore 
+- Intéractivité Web
+- Introduction à la programmation multimédia
 
 <h2>Composante technologique/Technique non connue</h2> 
 L'outil qu'elle a utilisé pour faire son projet: GDEVELOP 5 
