@@ -14,5 +14,6 @@ Le jeu lui-même n'est pas fini puisqu'il y a seulement le menu de départ et un
 Le jeu se retrouve sur le site Itchi.o, un site web qui permet de publier et faire fonctionner le jeu tout en étant capable de le modifier à fur et à mesure. L'outil utilisé pour la création du projet est GDEVELOP 5 avec l'aide de Clip Studio Paint pour les dessins. 
 
 <h2>L'installation prévue</h2> 
+
 Le plan pour la présentation et le projet final est de finir le jeu complet, dont les 11 autres niveauxs et leurs accès à partir du menu. Il y a aussi la possibilité d'ajouter des fonctions comme un bouton d'abandon pour que le joueur peut essayer un autre niveau malgré sa défaite ou laisser la prochaine personne jouer le niveau de son choix. Autre que le jeu, il y a aussi des décorations à mettre afin d'avoir une ambiance et enfin, une des mes suggestions lui a convaincue de mettre un panneau qui avertit les joueurs à propos du contenu du jeu puisque qu'il est plutôt macabre. 
 
