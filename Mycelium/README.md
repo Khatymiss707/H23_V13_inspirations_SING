@@ -1,4 +1,4 @@
 # Mycelium
-**Ce sous-dossier contient les informations importantes sur les projets crées par les étudiants de la 3e année, plus spécifiquement leurs installations, création et mon opinion personelle.**
+**Ce sous-dossier contient les informations importantes sur les projets créés par les étudiants de 3e année, plus spécifiquement leurs installations, créations et mon opinion personelle.**
 <br/> <br/>
-Dans chaque dossier, on retrouve les médias pris par moi durant la visite des projets, le fichier d'analyse sur le projet, le fichier de critique sur le projet et les liens de référence sur leurs propres projets.
+Dans chaque dossier nommé après chaque projet différent, on retrouve les photos et vidéos que j'ai pris durant la visite des projets, le fichier d'analyse sur chaque projet, le fichier qui critique chauqe projet selon mon opinion et les liens de références qui proviennent des créateurs. 
