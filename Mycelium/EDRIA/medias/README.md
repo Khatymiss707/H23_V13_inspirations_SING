@@ -1,1 +1,1 @@
-Ce sous-dossier contient les médias empilés du projet EDRIA (Entre Fungus).
+Ce sous-dossier contient les médias empilés du projet EDRIA.
