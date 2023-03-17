@@ -1,10 +1,10 @@
 Projet réalisé par **Abdanor Yara**
 
 <h2>Synopsis du projet</h2> 
-Un jeu sur le web qui nécéssite une compréhension du style du jeu "pointer et clicker" afin d'aider une fille à trouver des armes pour survive contre des monstres basés sur les zodiacs.
+Un jeu sur le web qui nécéssite une compréhension du style du jeu "pointer et clicker" afin d'aider une fille à trouver des armes pour survive contre des monstres inspirés sur les zodiacs.
 
 <h2>Lien avec le thème</h2> 
-Selon mon expérience et les mots de la réalisatrice, le thème se retrouve dans l'environnement dont le jeu prend place, étant un monde qui semble être apocalyptique et qui a laissé la nature prendre place des infrastructures humaines, les laissant pourrir et détériorer avec le temps. Le plus évident des éléments qui démontre clairement le thème est la pourriture et qui semble prendre place dans ses illustrations en forme de squelette, champignons, mousse, etc. Le jeu vidéo est fondé sur la nature, mais pas nécessairement sur les liens. 
+Selon mon expérience et les mots de la réalisatrice, le thème Mycelium se retrouve dans l'environnement dont le jeu prend place, étant un monde qui semble être apocalyptique et qui a laissé la nature prendre la place des infrastructures humaines. Ceux-ci sont  les laissant pourrir et détériorer avec le temps. Le plus évident des éléments qui démontre clairement le thème est la pourriture et qui semble prendre place dans ses illustrations en forme de squelette, champignons, mousse, etc. Le jeu vidéo est fondé sur la nature, mais pas nécessairement sur les liens. 
 
 <h2>L'installation en cours</h2> 
 Pour le moment, l'installation du jeu se retrouve déjà dans le lieu dont l'installation finale se retrouvera, dont le compartiment qui occupe les escaliers dans le grand studio. La pièce est plutôt sombre avec seulement la lumière blanche de l'écran illuminant l'espace. Il n'y a aucune décoration dans la pièce autre que l'installation matérielle qui consiste d'un écran, un ordinateur, une souris, un clavier, un support qui retient tous les éléments mentionnés précédemment et une chaise. 
