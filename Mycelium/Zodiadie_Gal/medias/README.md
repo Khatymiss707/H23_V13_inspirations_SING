@@ -1,1 +1,1 @@
-Ce sous-dossier contient les médias pris sur le projet Zodiadie Gal
+Ce sous-dossier contient les médias empilés du projet Zodiadie Gal.
