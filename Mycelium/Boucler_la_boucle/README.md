@@ -1,4 +1,4 @@
-# Boucler la boucle (NEXUM)
+# Boucler la boucle (Nexum)
 Ce sous-dossier contient toutes les informations nécessaires à propos de ma visite dont: 
 <br/>
 - Les photos prises
