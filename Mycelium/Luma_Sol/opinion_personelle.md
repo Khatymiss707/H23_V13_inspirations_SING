@@ -6,5 +6,10 @@ J'imagine que le produit final va être magnifique sur un arbre, mais sur l'esca
 
 <h2>3 cours incontournables à la création d'un projet similaire</h2> 
 
+- Introduction à la programmation multimédia
+- Programmation interactive et bases de données
+- Conception de projet multimédia
+
 
 <h2>Composante technologique/Technique non connue</h2> 
+Les logiciels qu'ils ont utilisé comme Madmapper et Arduino. 
