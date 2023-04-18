@@ -7,6 +7,10 @@ Edria donne la possibilité aux visiteurs d'explorer un univers féerique grâce
 Pour rendre cela simple, le thème mycélium (qui est le nom d'un champignon) se retrouve non seulement dans leur aspect d'environnement féerique, mais aussi dans la nécessité de tisser des liens avec d'autres gens afin d'expériencer le projet à son meilleur. À cause des différents capteurs de mouvements qui déclenchent des motifs de lumière et musique différents, le projet a besoin de l'intéraction de plus d'une personne. En plus, c'est un autre projet fondé sur la nature. C'est rendu évident avec l'ambience donné par les plantes décoratives.  
 
 <h2>L'installation en cours</h2> 
-Pour le moment présent, l'équipe se retrouvent avec beaucoup d'équipement qui ne seront pas dans l'installation finale. De ce qu'on a pu observer, 
+Pour le moment présent, l'équipe se retrouvent avec beaucoup d'équipement qui ne seront pas dans l'installation finale. De ce qu'on a pu observer, l'installation comporte cinq pilliers pour le monment. Un au centre qui est décoré de quatre capteurs de mouvement sur ses quatres côtés, chacun activant des motifs différents. Lorsqu'ils sont activés tous ensemble, ils déclenchent un motif de musique et de lumière spécial. Pour le moment, ils ont aussi 4 autres pillers qui supportent des lumières et des haut parleurs. Ceux-ci ne font pas parti des animations spéciaux pour le moment, mais ça garde  une bonne ambience de tote l'espace, non seulement au millieu. Autre que ces composantes, il n'y a que les ordinateurs qui controllent le tout qui se retrouvaient de côté du projet pour le moment.   
 
 <h2>L'installation prévue</h2> 
+Pour l'installation finale, les colonnes qu'ils ont commandées vont être à peu près trois fois la taille de ceux qu'ils ont pour le moment. De plus, il y en aurait pas juste quatre, mais plutôt huit en tout pour prendre le plus de surface possible et garder l'ambiance. Pour les capteurs de mouvement, ils vont pouvoir changer ceux qu'ils ont pour des capteurs plus perfomants et qui captent un plus grande distance. Pour le côté plus naturel de leur projet, ils vont aussi ajouter sur leurs colonnes des plantes synthétiques qui ont aussi pour but de cacher en partie la technologie derrière. Leur projet est déjà bien préparé autre que cela. 
+
+<h2>Expérience vécue</h2>
+
