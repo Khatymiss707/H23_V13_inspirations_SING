@@ -4,7 +4,7 @@
 Mycélium
 
 <h2>Type d'exposition</h2>
-Temporaire, Extérieure et - 
+Temporaire et Extérieure 
 
 <h2>Date de la visite</h2>
 Vendredi le 17 Mars 2023 
@@ -25,8 +25,10 @@ Luma Sol
 Intéractive
 
 <h2>Description de l'oeuvre</h2>
+Le projet consiste d'un simple vélo stationnaire qui déclenche un spectacle de lumières et de sons à son utilisateur. Afin de sensibiliser les personnes à s'investir et se mettre à l'action en face aux problèmes causés par l'être humain, les lumières se retrouve dans un arbre et le spectacle de lumières consiste d'une thématique saisonnière. 
 
 <h2>Mise en espace</h2>
+La mise en espace est plutôt simple. À l'extérieur du collège Montmorency, il s'y retrouve un arbre placé dans une petite section un peu distancé d'une entrée qui a servi d'endroit d'installation pour ce projet. 
 
 <h2>Composantes et techniques</h2>
 
