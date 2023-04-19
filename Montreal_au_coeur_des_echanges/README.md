@@ -1,1 +1,1 @@
-
+Ce sous-dossier contient les informations nécessaires à propos de la visite à l'exposition Montréal au coeur des échanges, plus spécifiquement sur l'oeuvre qui m'a le plus intéressé: Une vie de nomade. Dans celui-ci, on retrouve les preuves médiatiques que j'ai pris, le plan pour ma présentation et la fiche d'analyse sur le projet.
