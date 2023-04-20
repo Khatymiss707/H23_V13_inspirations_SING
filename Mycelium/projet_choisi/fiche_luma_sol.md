@@ -40,8 +40,15 @@ Je ne comprends pas nécessairement la technologie derrière le projet, mais ils
 En gros, ils avaient besoin d'un arbre solitaire dans un espace plutôt grand afin d'installer leur projet dessus, l'arbre étant une grande partie du message derrière leur création. De plus, la plupart du matériel a été acheté grâce au budget du collège, alors on peut dire que leur équipment provient aussi de l'exposition. Autre que cela, il n'y a pas nécessairement d'autres éléments qu'ils ont besoin afin de rendre ce projet un grand succès. Ils ont même utilisé un ordinateur qui provient de l'école. 
 
 <h2>Expérience vécue</h2>
-En gros, 
+En gros, le visiteur est supposé d'apercevoir l'installation lumineuse de loin et en approche, voir le vélo stationnaire placé devant et assumer qu'il a une fonction qui va changer les lumières blanches dans l'arbre. Avec curiosité, l'utilisateur s'installe sur le vélo et commence à pédaler par l'avant. Avec la musique dans l'atmosphère, les lumières blanches se transforment en spectacle de couleurs, suivant un esthétique d'une saison en particulier. Par exemple, les lumières deviennent plusieurs tonalités de bleu qui représentent l'hivers. Le visiteur pédale autant qu'il veut et lorsqu'il s'arrête, les lumières colorées vont rester jusqu'à tant que la roue arrête de tourner pour faire fonctionner le moteur. Lorsque cela va arriver, les lumières vont redevenir blanches puisque c'est le mode en défaut. En effet, rien a changé de leur plan original pour l'expérience ce qui prouve leur rigueur. 
 
 <h2>Ce qui m'a plu</h2>
+Cette fois-ci, l'installation finale m'a beaucoup plus plu, surtout durant la nuit ou la soirée où qu'on voit clairement les belles couleures des ampoules. Sortir de l'école le soir est franchement pénible, mais cette expérience donne la nuit une meilleure ambience. J'aime toujours autant les sêctacles de lumières et le manque d'effort qu'on a besoin pour le faire fonctionner parce que pour être franc, chaque petit geste peut amener à un meilleur future. En gros, le fait qu'il soit sur l'arbre cette fois-ci a beaucoup aidé mon expérience avec ce projet et je l'ai beaucoup aimé. 
 
 <h2>Aspects à changer selon moi</h2>
+Je trouve que le projet es bien structuré et bien pensé, mais j'aurais aimé avoir plus que quatres choix esthétiques de couleurs. Pour un projet étudiant et fait en si peu de temps, je les félicite puisque je n'ai pas d'idées à comment améliorer ce projet. Peut-être avoir une plus grande liste de trames sonores pour chaque saison pourrait rendre l'expérience un peu plus amusante. 
+
+<h2>Les liens au projet</h2>
+Github: 
+Pré-production: 
+TIMdoc: 
