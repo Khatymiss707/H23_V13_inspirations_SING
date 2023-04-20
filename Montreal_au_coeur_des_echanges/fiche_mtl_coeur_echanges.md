@@ -3,6 +3,8 @@
 <h2>Nom de l'exposition</h2>
 Montréal au coeur des échanges
 
+![](medias/mtlce_affiche.jpg)
+
 <h2>Type d'exposition</h2>
 Permanente et intérieure
 
