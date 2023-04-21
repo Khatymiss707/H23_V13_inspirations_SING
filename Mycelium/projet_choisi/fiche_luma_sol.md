@@ -49,6 +49,7 @@ Cette fois-ci, l'installation finale m'a beaucoup plus plu, surtout durant la nu
 Je trouve que le projet es bien structuré et bien pensé, mais j'aurais aimé avoir plus que quatres choix esthétiques de couleurs. Pour un projet étudiant et fait en si peu de temps, je les félicite puisque je n'ai pas d'idées à comment améliorer ce projet. Peut-être avoir une plus grande liste de trames sonores pour chaque saison pourrait rendre l'expérience un peu plus amusante. 
 
 <h2>Les liens au projet</h2>
-Github: 
-Pré-production: 
-TIMdoc: 
+
+- Github: https://github.com/Kawabongaaa/LumaSol
+- Pré-production: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html
+- TIMdoc: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
