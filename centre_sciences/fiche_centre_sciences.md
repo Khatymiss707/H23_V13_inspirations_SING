@@ -4,7 +4,7 @@
 Humain
 
 <h2>Type d'exposition</h2>
-Intérieure, Temporaire et Itinérante
+Intérieure, Permanente
 
 <h2>Date de la visite</h2>
 Mercredi le 12 Avril 2023
@@ -40,8 +40,9 @@ L'installation de bois qui contient le projet et qui sert de mur pour les autres
 Apprentissage
 
 <h2>Expérience vécue</h2>
- Il y a quatre bonnes réponses sur dix choix possibles. Lorsqu'un visiteur trouve un des quatre organes, le coeur par dessus la silhouette humaine passe de blanc à rouge, ayant trois autres portes à ouvrir. 
+Le visiteur entre dans l'exposition Humain et aperçoit le projet juste en avant de lui. S'il est intéressé, il va s'approcher de celui-ci et lire la description après de donner un coup d'oeil au projet. Après d'avoir compris le but du projet, le visiteur va essayer de soulever une des portes à sa disposition. Lorsqu'un visiteur trouve un des quatre organes, une des quatre parties du coeur par-dessus de la silhouette humaine passe du blanc à rouge, ayant trois autres portes à ouvrir. S'il ne réussit pas, le coeur simplement reste à sa condition neutre. Il y a quatre bonnes réponses sur dix choix possibles. Lorsque les trois autres portes sont aussi ouvertes (grâce à un aimant), le coeur est complètement rouge et joue une petite fanfare pour célébrer. Ensuite, le visiteur ferme les portes afin de donner une chance aux prochains visiteurs.
 
 <h2>Ce qui m'a plu</h2>
+C'est un projet qui paraît plutôt simple au premier coup d'oeil, mais après inspection, c'est plutôt complexe et bien pensé. 
 
 <h2>Aspects à changer selon moi</h2>
