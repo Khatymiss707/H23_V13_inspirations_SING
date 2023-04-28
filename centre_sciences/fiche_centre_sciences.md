@@ -43,6 +43,7 @@ Apprentissage
 Le visiteur entre dans l'exposition Humain et aperçoit le projet juste en avant de lui. S'il est intéressé, il va s'approcher de celui-ci et lire la description après de donner un coup d'oeil au projet. Après d'avoir compris le but du projet, le visiteur va essayer de soulever une des portes à sa disposition. Lorsqu'un visiteur trouve un des quatre organes, une des quatre parties du coeur par-dessus de la silhouette humaine passe du blanc à rouge, ayant trois autres portes à ouvrir. S'il ne réussit pas, le coeur simplement reste à sa condition neutre. Il y a quatre bonnes réponses sur dix choix possibles. Lorsque les trois autres portes sont aussi ouvertes (grâce à un aimant), le coeur est complètement rouge et joue une petite fanfare pour célébrer. Ensuite, le visiteur ferme les portes afin de donner une chance aux prochains visiteurs.
 
 <h2>Ce qui m'a plu</h2>
-C'est un projet qui paraît plutôt simple au premier coup d'oeil, mais après inspection, c'est plutôt complexe et bien pensé. 
+C'est un projet qui paraît plutôt simple au premier coup d'oeil, mais après inspection, c'est plutôt complexe et bien pensé. J'ai trouvé ce dispositif plus intéressant dans tous les projets que le guide nous a démontré. Aussi j'aime bien la propreté derrière le projet, car malgré la forme inconvéninente, tout est propre et bien attaché ensemble.  
 
 <h2>Aspects à changer selon moi</h2>
+Honnêtement, je n'ai aucune idée de quoi changer dans ce projet qui réussit déjà à sa tâche. C'est peut-être un peu plus complexe que nécessaire (le coeur), mais c'est apprécié. Peut-être donner ce projet un peu plus d'espace afin de ne pas être dans le chemin des gens qui passent dans le petit couloir. 
