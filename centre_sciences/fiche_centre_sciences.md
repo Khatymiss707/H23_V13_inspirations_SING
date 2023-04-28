@@ -25,17 +25,22 @@ Pas mentionné
 Dispositif multimédia d'apprentissage
 
 <h2>Description de l'oeuvre</h2>
-En gros, le dispositif intéractif est une illustration d'un corps humain avec des portes ouvrantes sur certaines parties du corps qui laisse les visiteurs les ouvrir afin de vérifier si une d'entre elles correspond 
+En gros, le dispositif interactif est une illustration d'un corps humain avec des portes ouvrantes sur certaines parties du corps. Cela crée une interaction qui laisse les visiteurs ouvrir les petites portes afin de vérifier si une d'entre elles correspond à une des caractéristiques anciennes que l'évolution n'a pas éliminées. En réussissant la tâche, le coeur par-dessus la silhouette devient rouge et célèbre ta réussite. C'est un projet qui a pour but de faire apprendre les visiteurs un peu plus sur le corps humain et ses caractéristiques considérées inutiles.  
 
 <h2>Mise en espace</h2>
+Tristement, le projet n'a pas énormément d'espace puisqu'il se retrouve entre deux projets et a l'espace d'un petit couloir. Il n'y avait presque pas de place pour notre groupe afin de visionner le dispositif. De plus, le projet n'est pas large ni grand, alors l'illustration prend une taille minime afin de ne pas enfarger dans les autres projets. Il n'y a pas de cartel, mais au côté gauche du projet, il y a une description stylisée en français et en anglais qui explique le but du projet interactif qui prend plus de place que le projet lui-même.  
 
 <h2>Composantes et techniques</h2>
+Lors de notre visite, le guide nous a ouvert la porte pour qu'on puisse voir l'installation mécanique derrière le projet puisqu'il n'y a aucunee des composantes techniques qui se retrouve à l'extérieur. Au derrière de la porte, on retrouve deux capteurs chacun qui sont installés au niveau des quatre bonnes réponses. Pour activer le coeur, les capteurs sont liés avec des fils qui passent dans un dispositif à l'intérieur de l'espace vide dans le mur derrière la porte. Ensuite, d'autres fils les connectent avec le coeur afin de l'allumer. De plus, à l'intérieur, il a des prises de courant et d'autres fils un peu partout afin de tout connecter.  
 
 <h2>Éléments nécessaires pour la mise en exposition</h2>
+L'installation de bois qui contient le projet et qui sert de mur pour les autres projets fait sûrement partie de l'exposition complète. Pour construire celui-ci nécessite sûrement plusieurs matériels comme des vis, un drill, des planches de bois, etc.,. De plus, l'extension pour les multiples prises provient sûrement de l'exposition afin de bien installer les fils. Il y a aussi une nécessité de donner assez d'espace pour le projet pour pouvoir interagir avec. En plus, il y a des choses qui attachent les fils ensemble afin de garder le projet propre.
 
 <h2>Fonction du dispositif multimédia</h2>
+Apprentissage
 
 <h2>Expérience vécue</h2>
+ Il y a quatre bonnes réponses sur dix choix possibles. Lorsqu'un visiteur trouve un des quatre organes, le coeur par dessus la silhouette humaine passe de blanc à rouge, ayant trois autres portes à ouvrir. 
 
 <h2>Ce qui m'a plu</h2>
 
