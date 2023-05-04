@@ -63,6 +63,8 @@ Apprentissage
 <h2>Expérience vécue</h2>
 Le visiteur entre dans l'exposition Humain et aperçoit le projet juste en avant de lui. S'il est intéressé, il va s'approcher de celui-ci et lire la description après de donner un coup d'oeil au projet. Après d'avoir compris le but du projet, le visiteur va essayer de soulever une des portes à sa disposition. Lorsqu'un visiteur trouve un des quatre organes, une des quatre parties du coeur par-dessus de la silhouette humaine passe du blanc à rouge, ayant trois autres portes à ouvrir. S'il ne réussit pas, le coeur simplement reste à sa condition neutre. Il y a quatre bonnes réponses sur dix choix possibles. Lorsque les trois autres portes sont aussi ouvertes (grâce à un aimant), le coeur est complètement rouge et joue une petite fanfare pour célébrer. Ensuite, le visiteur ferme les portes afin de donner une chance aux prochains visiteurs.
 
+[![](medias/humain_mise_espace.jpg)](https://youtu.be/dZpo5uaK-xU)
+
 <h2>Ce qui m'a plu</h2>
 C'est un projet qui paraît plutôt simple au premier coup d'oeil, mais après inspection, c'est plutôt complexe et bien pensé. J'ai trouvé ce dispositif plus intéressant dans tous les projets que le guide nous a démontré. Aussi j'aime bien la propreté derrière le projet, car malgré la forme inconvéninente, tout est propre et bien attaché ensemble.  
 
