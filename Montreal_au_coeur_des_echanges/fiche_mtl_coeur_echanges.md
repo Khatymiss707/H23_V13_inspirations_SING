@@ -48,6 +48,8 @@ Le projet se retrouve sur un mur de brique, une ruine archéologique de Ville-Ma
 
 ![](medias/mtlce_vue_droite.jpg) ![](medias/mtlce_vue_gauche.jpg) ![](medias/mtlce_vue_gauche_arriere.jpg) ![](medias/mtlce_sortie.jpg)
 
+![](medias/mtlce_schema.jpg)
+
 <h2>Composantes et techniques</h2>
 C'est un dispositif multimédia qui est plutôt simple. La vidéo est faite sur un logiciel inconnu par le visiteur et celui-ci est projeté sur la ruine grâce à un projecteur installé sur le plafond plutôt bas. Non seulement il y a le projecteur, mais sur le plafond, il y a aussi deux lumières et un haut-parleur installés pour l'ambiance et notre écoute. Après tout, l'oeuvre est plus sonore qu'autre chose. 
 
