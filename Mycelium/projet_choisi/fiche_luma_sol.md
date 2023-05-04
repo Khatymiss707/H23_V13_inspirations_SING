@@ -70,6 +70,8 @@ En gros, ils avaient besoin d'un arbre solitaire dans un espace plutôt grand af
 <h2>Expérience vécue</h2>
 En gros, le visiteur est supposé d'apercevoir l'installation lumineuse de loin et en approche, voir le vélo stationnaire placé devant et assumer qu'il a une fonction qui va changer les lumières blanches dans l'arbre. Avec curiosité, l'utilisateur s'installe sur le vélo et commence à pédaler par l'avant. Avec la musique dans l'atmosphère, les lumières blanches se transforment en spectacle de couleurs, suivant une esthétique d'une saison en particulier. Par exemple, les lumières deviennent plusieurs tonalités de bleu qui représentent l'hiver. Le visiteur pédale autant qu'il veut et lorsqu'il s'arrête, les lumières colorées vont rester jusqu'à tant que la roue arrête de tourner pour faire fonctionner le moteur. Lorsque cela va arriver, les lumières vont redevenir blanches puisque c'est le mode en défaut.
 
+[![](medias/mycelium_mise_espace.jpg)](https://youtu.be/PdfbxgPjGQQ)
+
 <h2>Ce qui m'a plu</h2>
 Cette fois-ci, l'installation finale m'a beaucoup plus plu, surtout durant la nuit ou la soirée où qu'on voit clairement les belles couleurs des ampoules. Sortir de l'école le soir est franchement pénible, mais cette expérience donne la nuit une meilleure ambiance. J'aime toujours autant les spectacles de lumières et le manque d'effort qu'on a besoin pour le faire fonctionner parce que pour être franc, chaque petit geste peut amener à un meilleur futur. En gros, le fait qu'il soit sur l'arbre cette fois-ci a beaucoup aidé mon expérience avec ce projet et je l'ai beaucoup aimé.
 
