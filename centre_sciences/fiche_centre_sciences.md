@@ -14,7 +14,7 @@ Mercredi le 12 Avril 2023
 <h2>Lieu de l'exposition</h2>
 Le Centre des Sciences
 
-![](medias/)
+![](medias/humain_entree.png)
 
 <h2>Titre de l'oeuvre</h2>
 Pas mentionné
