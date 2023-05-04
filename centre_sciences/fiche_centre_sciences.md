@@ -43,6 +43,8 @@ Tristement, le projet n'a pas énormément d'espace puisqu'il se retrouve entre 
 
 ![](medias/humain_vue_droite.jpg)
 
+![](medias/humain_schema.jpg)
+
 <h2>Composantes et techniques</h2>
 Lors de notre visite, le guide nous a ouvert la porte pour qu'on puisse voir l'installation mécanique derrière le projet puisqu'il n'y a aucunee des composantes techniques qui se retrouve à l'extérieur. Au derrière de la porte, on retrouve deux capteurs chacun qui sont installés au niveau des quatre bonnes réponses. Pour activer le coeur, les capteurs sont liés avec des fils qui passent dans un dispositif à l'intérieur de l'espace vide dans le mur derrière la porte. Ensuite, d'autres fils les connectent avec le coeur afin de l'allumer. De plus, à l'intérieur, il a des prises de courant et d'autres fils un peu partout afin de tout connecter.  
 
