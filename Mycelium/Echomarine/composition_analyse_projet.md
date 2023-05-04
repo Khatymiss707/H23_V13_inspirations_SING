@@ -9,6 +9,12 @@ En gros, le mycélium est un champignon et celui-ci représente la liaison grâc
 <h2>L'installation en cours</h2> 
 Pour être complètement honnête, ce projet semble être le plus préparé pour la présentation finale. Elles sont déjà placées dans la salle qu'elles vont présenter leur projet (le petit studio) et les projections de l'océan étaient déjà mises en place sur les trois murs grâce à trois projecteurs. Le son de l'océan nous immergeait dans leurs projections grâce aux quatre haut-parleurs accrochés aux quatre coins en haut de la salle et les algues bougent paisiblement. Dans le coin proche de la porte se retrouvait la tour avec l'ordinateur qui avait le site pour pouvoir activer les animations d'animaux marins, mais pour le moment, il n'y avait qu'une animation qui marchait. Malgré tout, les animaux marins étaient tous dessinés.
 
+![](medias/echomarine_composante_technologique.jpg)
+
+![](medias/echomarine_ordinateur.jpg)
+
+![](medias/echomarine_projection.jpg)
+
 <h2>L'installation prévue</h2> 
 Autre que remplacer quelques projections pour but d'esthétisme, l'équipe manquait la tablette du milieu et son support afin créer l'interactivité avec leurs visiteurs. Comme je l'avais mentionné, elles n'avaient qu'une animation qui marchait, alors elles vont devoir animer les cinq autres. Il y a aussi le déclenchement des vagues lorsque le visiteur entre dans la pièce à installer. C'est un projet quand même bien préparé pour l'installation finale.  
 
