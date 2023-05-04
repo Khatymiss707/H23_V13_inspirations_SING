@@ -9,6 +9,8 @@ Le mycélium est un champignon avec de longues racines qui se propagent sur des 
 <h2>L'installation en cours</h2> 
 Dans le moment présent, le projet Nexum se retrouve suspendu sur des petites chaises et ne suit pas nécessairement les visiteurs. Il n'y pas d'interactivité puisqu'il se retrouve dans un coin et ne fait que démontrer un tracé de lumière blanche jusqu'à temps qu'ils activent de proche l'interactivité de la lumière qu'elle suit. De plus, ils ont créé des petites animations pour leurs codes QR, mais il n'y a aucune façon de les accéder pour le moment puisque la fille de leur équipe ne les a pas finis encore pour le moment. Il n'y a pas nécessairement de lien qui se fait avec les autres projets pour le moment et la musique n'était pas encore présentée. 
 
+![](medias/nexum_mise_en_espace.jpg)
+
 ![](medias/nexum_lumiere_chaise.jpg)
 
 ![](medias/nexum_animation.jpg)
@@ -16,8 +18,6 @@ Dans le moment présent, le projet Nexum se retrouve suspendu sur des petites ch
 ![](medias/nexum_ordinateur.jpg)
 
 ![](medias/nexum_senseur.jpg)
-
-![](medias/nexum_mise_en_espace.jpg)
 
 <h2>L'installation prévue</h2> 
 En gros, l'installation prévue est de mettre leur fil de lumière sur huit pôles et de les placer d'une façon qui suit le chemin prédéterminé par les sentiers en avant du collège. Avec les pôles placés des deux côtés du visiteur afin de les immerger, il va aussi avoir huit haut-parleurs placés sur ceux-ci afin de mettre de la musique immersive qui marche bien avec le projet d'EDRIA. Dans l'installation finale, il va aussi avoir des boules lumineuses installées sur les poteaux qui devraient aussi suivre le sentier de lumière qu'ils ont mit en marche afin de donner une diversité d'éléments. Finalement, les codes QR seront imprimés et placés au travers du sentier, malgré l'ambiguïté de leurs emplacements.  
