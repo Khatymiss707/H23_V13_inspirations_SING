@@ -39,7 +39,7 @@ Intéractive
 <h2>Description de l'oeuvre</h2>
 Le projet consiste d'un simple vélo stationnaire qui déclenche un spectacle de lumières et de sons à son utilisateur. Afin de sensibiliser les personnes à s'investir et se mettre à l'action en face aux problèmes causés par l'être humain, les lumières se retrouvent dans un arbre et le spectacle de lumières consiste d'une thématique saisonnière. 
 
-![](medias/)
+![](medias/mycelium_cartel.jpg)
 
 <h2>Mise en espace</h2>
 La mise en espace est plutôt simple. À l'extérieur du collège Montmorency, il s'y retrouve un arbre placé dans une petite section un peu distancée d'une entrée qui a servi d'endroit d'installation pour ce projet. Sur l'arbre en tant que tel, il y a les lumières LED accrochées et entremêlées dans les branches alors ça ne prend pas de place supplémentaire. Le vélo est bien placé et bien centré dans l'espace qui est plutôt grand pour un simple vélo stationnaire et des bâtons de lumières. Parlant des bâtons lumineux, ils sont placés avec des grands espaces entre eux pour démontrer la zone du projet. Autre que cela, il y a aussi le banc de parc qui est enfoncé dans la terre, alors ils ne pouvaient pas le bouger de place, mais ça peut donner une bonne ambiance pour les personnes qui s'assoient à cet endroit. Le projet est à l'extérieur et en suivant la partie de gazon, il est placé en forme de triangle isocèle.  
