@@ -9,6 +9,16 @@ En gros, LumaSol est un projet qui est centré sur la protection de l'environnem
 <h2>L'installation en cours</h2> 
 Pour le moment, les lumières sont accrochées sur un escalier sur roulettes qui est assez long pour démontrer toutes leurs ampoules. À côté se retrouvait un vélo stationnaire qu'ils ont emprunté de l'école en attendant pour leur vrai vélo qu'ils ont commandé et c'est une des raisons pourquoi le support du moteur dynamo (ce qui fait fonctionner la lumière en bougeant) n'était pas encore installé devant la roue et nécessitait que quelqu'un le tienne pour la démonstration. Autre que le vélo, ils avaient déjà leurs lumières LED qui sont censées bien performer dans les conditions météorologiques. Sur le côté, il y avait tous leurs ordinateurs et tous les fils dont ils avaient besoin pour faire fonctionner le système de lumière. Parlant du système de lumière, ils avaient déjà fini la programmation et leurs couleurs qui démontrent les quatre saisons. En plus, ils avaient des haut-parleurs qui ont pour but d'apporter une meilleure immersion à leur projet, mais pour le moment, ils n'étaient pas installés ni fonctionnels.
 
+![](medias/lumasol_velo.jpg)
+
+![](medias/lumasol_ordinateur.jpg)
+
+![](medias/lumasol_moteur.jpg)
+
+![](medias/lumasol_composante_technique.jpg)
+
+![](medias/lumasol_escalier.jpg)
+
 <h2>L'installation prévue</h2> 
 Pour l'installation prévue, ils planifient d'avoir leurs lumières placées sur les branches d'un arbre en spécifique devant une des entrées du collège Montmorency afin de bien passer leur message à propos du réchauffement climatique. Devant cet arbre, ils vont placer le vélo stationnaire qu'ils ont commandé. Pour indiquer qu'il fait partie de l'oeuvre et qui nécessite que quelqu'un l'utilise, il va avoir des boules de lumières blanches qui l'entourent. Les haut-parleurs vont être installés et vont jouer une trame sonore durant des longues périodes de temps. Il va aussi avoir des boules de lumières blanches autour du vélo stationnaire. Les ordinateurs vont aussi être en sécurité à l'intérieur du studio puisque les lumières vont être connectées avec l'Internet.
 
