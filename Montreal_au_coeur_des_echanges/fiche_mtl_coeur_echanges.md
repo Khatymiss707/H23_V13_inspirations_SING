@@ -17,6 +17,8 @@ Vendredi le 3 Mars 2023
 <h2>Lieu de l'exposition</h2>
 Pointe-à-Callière, Cité d'archéologie et d'histoire de Montréal
 
+![](medias/mtlce_moi_entree.jpg)
+
 <h2>Titre de l'oeuvre</h2>
 Une vie de nomade 
 
